@@ -23,4 +23,6 @@ if(weapon && ammo)
 }
 ```
 
+
+
 #### foreach: https://github.com/karimcambridge/samp-foreach
