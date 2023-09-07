@@ -1,2 +1,2 @@
-# SAMP-DropGun
-a simple dropgun system
+# SAMP Drop Gun System
+- it's very simple to use
